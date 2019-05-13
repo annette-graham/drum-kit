@@ -1,0 +1,23 @@
+{
+  "name": "drum-kit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annette-graham/drum-kit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annette-graham/drum-kit/issues"
+  },
+  "homepage": "https://github.com/annette-graham/drum-kit#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
